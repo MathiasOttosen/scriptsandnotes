@@ -1,0 +1,25 @@
+# Chocolatey
+
+    # Browsers
+    choco install googlechrome firefox -y
+
+    # Dev tools
+    choco install autohotkey git docker docker-for-windows sourcetree -y
+
+    # Editors
+    choco install visualstudiocode visualstudio2017professional resharper -y
+
+    # Chat
+    choco install slack discord -y
+
+    # Fun
+    choco install spotify -y
+
+    # Storage
+    choco install dropbox -y
+
+    # Programs
+    choco install bitwarden -y
+
+    # Utility
+    choco install 7zip foxitreader vlc sharex irfanview doublecmd -y
