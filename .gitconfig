@@ -1,0 +1,20 @@
+[user]
+	email = mathias_ottosen@hotmail.com
+	name = Mathias Henrik Ottosen
+[alias]
+       l = log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+       a = add --all
+       d = diff
+       s = status
+       b = branch -a
+       f = fetch -p
+       co = checkout
+       bd = branch -d
+       ca = commit -am
+       cm = commit -m
+       rh = reset --hard
+       ph = push origin head
+       pm = pull origin master
+       pd = pull origin develop
+       com = checkout master
+       cod = checkout develop
