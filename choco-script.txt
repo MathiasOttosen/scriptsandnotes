@@ -7,7 +7,7 @@
     choco install autohotkey git docker docker-for-windows sourcetree -y
 
     # Editors
-    choco install visualstudiocode visualstudio2017professional resharper -y
+    choco install visualstudiocode visualstudio2017professional resharper postman notepadplusplus-y
 
     # Chat
     choco install slack discord -y
